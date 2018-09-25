@@ -4,7 +4,7 @@
 ##Description:
 This is where I attempt to solve the challenges from Codewars.
 
-##Javascript
+##Javascript Challenges
 
 ###Count Positive Numbers and the Sum of Negative Numbers
 
