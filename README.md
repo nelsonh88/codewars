@@ -1,16 +1,16 @@
-#Codewars Challenges
+<h1>Codewars Challenges</h1>
 
-##Description:
+<h2>Description:</h2>
 This is where I attempt to solve the challenges from Codewars.
 
-##Javascript
+<h2>Javascript</h2>
 
-###Count Positive Numbers and the Sum of Negative Numbers
+<h3>Count Positive Numbers and the Sum of Negative Numbers</h3>
 
-###Convert Boolean Values to String 'Yes' or 'No'
+<h3>Convert Boolean Values to String 'Yes' or 'No'</h3>
 Complete the method that takes a boolean value and return a 'Yes' string for true, or a 'No' string for false.
 
-###Find the Smallest Integer in the Array
+<h3>Find the Smallest Integer in the Array</h3>
 Given an array of integers your solution should find the smallest integer.
 
 For example:
