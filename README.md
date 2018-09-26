@@ -10,13 +10,13 @@ This is where I attempt to solve the challenges from Codewars.
 * This challenge can be found in the file countPositiveSumNegatives.js
 
 <h3>Convert boolean values to String 'yes' or 'no'</h3>
-Complete the method that takes a boolean value and return a 'Yes' string for true, or a 'No' string for false.<br>
-
+Complete the method that takes a boolean value and return a 'Yes' string for true, or a 'No' string for false.
+<br>
 * This challenge can be found in the file convertBooleanToStrings.js
 
 <h3>Find the smallest integer in the array</h3>
-Given an array of integers your solution should find the smallest integer.<br>
-
+Given an array of integers your solution should find the smallest integer.
+<br>
 For example:
 Given [34, 15, 88, 2] your solution will return 2
 Given [34, -345, -1, 100] your solution will return -345
@@ -25,8 +25,8 @@ You can assume, for the purpose of this kata, that the supplied array will not b
 * This challenge can be found in the file smallestIntegerInArray.js
 
 <h3>Is n divisible by x and y?</h3>
-Create a function isDivisible(n, x, y) that checks if a number n is divisible by two numbers x AND y. All inputs are positive, non-zero digits.<br>
-
+Create a function isDivisible(n, x, y) that checks if a number n is divisible by two numbers x AND y. All inputs are positive, non-zero digits.
+<br>
 For example:
 isDivisible(3,1,3)--> true because 3 is divisible by 1 and 3
 isDivisible(12,2,6)--> true because 12 is divisible by 2 and 6
