@@ -35,3 +35,13 @@ isDivisible(100,5,3)--> false because 100 is not divisible by 3
 isDivisible(12,7,5)--> false because 12 is neither divisible by 7 nor 5</p>
 
 * This challenge can be found in the file isDivisibleBy.js
+
+<h3>Rock Paper Scissors</h3>
+<p>Let's play! You have to return which player won! In case of a draw return Draw!.</p>
+
+<p>For example:
+rps('scissors','paper') // Player 1 won!
+rps('scissors','rock') // Player 2 won!
+rps('paper','paper') // Draw!</p>
+
+* This challenge can be found in the file rps.js
