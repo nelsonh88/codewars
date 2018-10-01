@@ -36,7 +36,7 @@ isDivisible(12,7,5)--> false because 12 is neither divisible by 7 nor 5</p>
 
 * This challenge can be found in the file isDivisibleBy.js
 
-<h3>Rock Paper Scissors</h3>
+<h3>Rock paper scissors</h3>
 <p>Let's play! You have to return which player won! In case of a draw return Draw!.</p>
 
 <p>For example:
@@ -45,3 +45,16 @@ rps('scissors','rock') // Player 2 won!
 rps('paper','paper') // Draw!</p>
 
 * This challenge can be found in the file rps.js
+
+<h3>Convert a string to a number</h3>
+<p>We need a function that can transform a string into a number. What ways of achieving this do you know?</p>
+
+<p>Note: Don't worry, all inputs will be strings, and every string is a perfectly valid representation of an integral number.</p>
+
+<p>For example:
+stringToNumber("1234") == 1234
+stringToNumber("605" ) == 605
+stringToNumber("1405") == 1405
+stringToNumber("-7"  ) == -7</p>
+
+* This challenge can be found in the file stringToNumber.js
