@@ -58,3 +58,8 @@ stringToNumber("1405") == 1405
 stringToNumber("-7"  ) == -7</p>
 
 * This challenge can be found in the file stringToNumber.js
+
+<h3>Make uppercase</h3>
+<p>Write function makeUpperCase.</p>
+
+* This challenge can be found in the file makeUpperCase.js
