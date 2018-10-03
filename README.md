@@ -1,8 +1,6 @@
 <h1>Codewars Challenges</h1>
 
-<h2>Description:</h2>
-
-<p>This is where I attempt to solve the challenges from Codewars.</p>
+<p><strong>Description:</strong> This is where I attempt to solve the challenges from Codewars.</p>
 
 <h2>Javascript Challenges</h2>
 
@@ -63,3 +61,15 @@ stringToNumber("-7"  ) == -7</p>
 <p>Write function makeUpperCase.</p>
 
 * This challenge can be found in the file makeUpperCase.js
+
+<h3>The museum of incredible dull things</h3>
+<p>Given an array of integers, remove the smallest value. Do not mutate the original array/list. If there are multiple elements with the same value, remove the one with a lower index. If you get an empty array/list, return an empty array/list.</p>
+
+<p>Don't change the order of the elements that are left.</p>
+
+<p>For example:
+removeSmallest([1,2,3,4,5]) = [2,3,4,5]
+removeSmallest([5,3,2,1,4]) = [5,3,2,4]
+removeSmallest([2,2,1,2,1]) = [2,2,2,1]</p>
+
+* This challenge can be found in the file removeSmallest.js
