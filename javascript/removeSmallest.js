@@ -11,16 +11,24 @@ const removeSmallest = function(arr) {
     if (arr[i] < value) {
       value = arr[i]
       index = i
-      // arr.splice(index, 1)
-
     }
   }
+// below splice works but it mutates the array so I can't use it
+  // arr.splice(index, 1)
+// I am going to look into using filter, which should allow me to remove without
+// mutating thr
+console.log(arr)
+console.log(index)
+const notBorringArr = arr.filter(arr => arr !== arr[index])
+
+
   console.log('the value is ', value)
   console.log('the index is ', index)
-// console.log(arr)
+  console.log(notBorringArr)
+  return arr
 
 }
 
 removeSmallest(arr3)
-removeSmallest(arr2)
-removeSmallest(arr1)
+// removeSmallest(arr2)
+// removeSmallest(arr1)
